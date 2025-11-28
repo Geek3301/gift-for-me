@@ -26,6 +26,7 @@ This repository contains the source code for a fully functional e-commerce websi
 
 
 3. Copy the repository files into the server's root folder (e.g., htdocs)
+
    
 
 4. Import the database
