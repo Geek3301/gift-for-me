@@ -34,10 +34,10 @@ Set up WordPress on a local server (e.g., XAMPP or LocalWP)
 
    Configure the settings in `wp-config.php`
 
-  ##Demo
+  ## Demo
 
-  Live demo link: (https://gift-for-me.page.gd/)
+  Live demo link: https://gift-for-me.page.gd/
 
-  ##Purpose
+  ## Purpose
 
   This project demonstrates the ability to develop a complete e-commerce website on WordPress, including working with themes and plugins, WooCommerce setup, and full front-end/back-end integration.
