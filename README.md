@@ -37,6 +37,7 @@ This repository contains the source code for a fully functional e-commerce websi
 
    Configure the settings in `wp-config.php`
 
+
   ## Demo
 
   Live demo link: https://gift-for-me.page.gd/
