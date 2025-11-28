@@ -21,16 +21,17 @@ This repository contains the source code for a fully functional e-commerce websi
 1. Clone the repository:  
    ```bash
    git clone https://github.com/your-username/repository-name.git
-  Set up WordPress on a local server (e.g., XAMPP or LocalWP)
 
-2. Copy the repository files into the root (htdocs) folder
+2. Set up WordPress on a local server (e.g., XAMPP or LocalWP)
+
+3. Copy the repository files into the root (htdocs) folder
    
 
-3. Import the database
+4. Import the database
     
    Dump file is included and called `if0_39935073_giftforme.sql`
   
-4. Configure the database connection
+5. Configure the database connection
 
    Configure the settings in `wp-config.php`
 
