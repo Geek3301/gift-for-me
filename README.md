@@ -22,9 +22,10 @@ This repository contains the source code for a fully functional e-commerce websi
    ```bash
    git clone https://github.com/your-username/repository-name.git
 
-2. Set up WordPress on a local server (e.g., XAMPP or LocalWP)
+2. Set up a local web server with PHP and MySQL (e.g., XAMPP, LocalWP, MAMP, or any other hosting environment)
 
-3. Copy the repository files into the root (htdocs) folder
+
+3. Copy the repository files into the server's root folder (e.g., htdocs)
    
 
 4. Import the database
